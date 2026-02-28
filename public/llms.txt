@@ -1,0 +1,57 @@
+# רפאל כהן קואצ'ר ומאמן מנטלי — Generative Engine Optimization Map
+
+> A personal coaching practice specializing in mental and emotional training, focused on habit transformation and building high self-worth. The brand centers on empowering individuals through personalized guidance, combining emotional intelligence with practical behavior change strategies to help clients develop stronger self-esteem and sustainable positive habits.
+
+---
+
+## Pages
+
+### בית
+https://-be7080fc.zappy5.app
+קואצ&#39;ינג אישי לגברים המשלב אינטליגנציה רגשית עם אסטרטגיות שינוי התנהגות מעשיות. התחל מסע של צמיחה אישית והעצמה עם הדרכה מותאמת אישית.
+
+### אודות
+https://-be7080fc.zappy5.app/about
+רפאל כהן מתמחה באימון מנטלי רגשי לגברים ומלווה אותך בתהליך בניית ביטחון עצמי וערך עצמי גבוה. גלה את הגישה הייחודית שעובדת באמת.
+
+### תוכניות
+https://-be7080fc.zappy5.app/programs
+תוכניות קואצ&#39;ינג ייעודיות לשינוי הרגלים ובניית ערך עצמי. תכניות מעשיות המשלבות אינטליגנציה רגשית עם כלים קונקרטיים להצלחה ארוכת טווח.
+
+### צור קשר
+https://-be7080fc.zappy5.app/contact
+מוכן לשינוי אמיתי? צור קשר עם רפאל כהן לשיחת ייעוץ ראשונית. גלה איך קואצ&#39;ינג אישי יכול לשנות את חייך ולהוביל אותך להצלחה ורווחה נפשית.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-be7080fc.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-be7080fc.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-be7080fc.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About רפאל כהן קואצ'ר ומאמן מנטלי
+A personal coaching practice specializing in mental and emotional training, focused on habit transformation and building high self-worth. The brand centers on empowering individuals through personalized guidance, combining emotional intelligence with practical behavior change strategies to help clients develop stronger self-esteem and sustainable positive habits.
+
+## Target Audience
+- צעירים מקצועיים מחפשים צמיחה
+
+## Industry
+פיתוח אישי ורווחה נפשית
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-be7080fc.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-be7080fc.zappy5.app/robots.txt
